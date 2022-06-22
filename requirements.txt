@@ -1,0 +1,20 @@
+transformers
+datasets
+sentencepiece
+sacrebleu
+# Torch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch
+torchvision
+tqdm
+dvc
+pandas
+numpy
+absl-py
+wrapt
+jupyter
+gast
+astunparse
+termcolor
+### local packages -
+-e . # << uncomment this to install from setup.py
